@@ -22,4 +22,3 @@ I am a senior engineer at Zhejianglab(Hangzhou). Meanwhile, I am currently pursu
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/patents.md %}
-{% include_relative _includes/services.md %}
