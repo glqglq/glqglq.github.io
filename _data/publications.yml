@@ -11,7 +11,7 @@ main:
     notes: Poster
     image: ./assets/img/teaser_example.png
 
-  - title: Hybrid Parallel Inference for Large Model on Heterogeneous Clusters for High Throughput
+  - title: "Hybrid Parallel Inference for Large Model on Heterogeneous Clusters for High Throughput"
     authors: Chaonong Xu, Weiming Kong, Min Liu, Mingming Zhang, Chao Li, <strong>Luqi Gong</strong>*(*Corresponding authors)
     conference_short: ICPADS
     conference: IEEE International Conference on Parallel and Distributed Systems, 2023.
@@ -21,7 +21,7 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Research Paper
 
-  - title: Sketch-fusion: A gradient compression method with multi-layer fusion for communication-efficient distributed training
+  - title: "Sketch-fusion: A gradient compression method with multi-layer fusion for communication-efficient distributed training"
     authors: Lingfei Dai, <strong>Luqi Gong</strong>, Zhulin An, Yongjun Xu, Boyu Diao*(*Corresponding authors)
     conference_short: 
     conference: Journal of Parallel and Distributed Computing, 2023.
@@ -31,7 +31,7 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Accept
 
-  - title: A deep neural network compression algorithm based on knowledge transfer for edge devices
+  - title: "A deep neural network compression algorithm based on knowledge transfer for edge devices"
     authors: Yanming Chen, Chao Li*, <strong>Luqi Gong</strong>, Xiang Wen, Yiwen Zhang, Weisong Shi(*Corresponding authors)
     conference_short: 
     conference: Computer Communications, 2020.
@@ -41,7 +41,7 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Accept
     
-  - title: 基于模型性能相关性的分级剪枝率剪枝方法
+  - title: "基于模型性能相关性的分级剪枝率剪枝方法"
     authors: 杨康, 郭荣佐*, 李超, 许建荣, 严阳春, 宫禄齐(*Corresponding authors)
     conference_short: 
     conference: 计算机工程与设计, 2021.
