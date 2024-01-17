@@ -17,7 +17,7 @@ I am a senior engineer at Zhejianglab(Hangzhou). Meanwhile, I am currently pursu
 
 ## Research Interests
 
-- **Intelligent Computing Acceleration:** Model compression, Inference optimization
+- **Intelligent Computing Acceleration:** DNN deployment, DNN compression, Inference optimization
 
 
 {% include_relative _includes/publications.md %}
