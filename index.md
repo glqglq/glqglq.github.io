@@ -7,7 +7,7 @@ layout: homepage
 I am a senior engineer at Zhejianglab(Hangzhou). Meanwhile, I am currently pursuing a doctoral degree at Beijing University of Posts and Telecommunications(Beijing). 
 
 ## Work experience
-- July, 2023~now: Engineer in Zhejianglab
+- July, 2023~now: Senior Engineer in Zhejianglab
 - July, 2020~May, 2023: Engineer in Institute of Computing Technology(ICT), Chinese Academy of Science(CAS)
 
 ## Education
