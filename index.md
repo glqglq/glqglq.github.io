@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an senior engineer at Zhejianglab(Hangzhou). Meanwhile, I am currently pursuing a doctoral degree at Beijing University of Posts and Telecommunications(Beijing). 
+I am a senior engineer at Zhejianglab(Hangzhou). Meanwhile, I am currently pursuing a doctoral degree at Beijing University of Posts and Telecommunications(Beijing). 
 
 ## Work experience
 - July, 2023~now: Engineer in Zhejianglab
