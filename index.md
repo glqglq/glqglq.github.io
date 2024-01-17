@@ -17,8 +17,7 @@ I am a senior engineer at Zhejianglab(Hangzhou). Meanwhile, I am currently pursu
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Intelligent Computing Acceleration:** Model compression, Inference optimization
 
 
 {% include_relative _includes/publications.md %}
