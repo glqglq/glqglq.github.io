@@ -1,4 +1,4 @@
-![image](https://github.com/glqglq/luqigong.github.io/assets/11147163/0ce54a65-7a6b-4055-95ef-f30768d4b0b7)## Patents
+## Patents
 
 <ul style="margin:0 0 5px;">
   <li>宫禄齐，徐勇军，李超，一种生成学生网络模型的方法，申请号：202010243249.0，申请日：2020-03-31，授权日：2023-09-08</li>
