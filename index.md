@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an engineer at Zhejianglab(Hangzhou). Meanwhile, I am currently pursuing a doctoral degree at Beijing University of Posts and Telecommunications(Beijing). 
 
 ## Research Interests
 
