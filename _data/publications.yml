@@ -4,7 +4,7 @@ main:
     authors: Yanming Chen, Chao Li*, <strong>Luqi Gong</strong>, Xiang Wen, Yiwen Zhang, Weisong Shi(*Corresponding authors)
     conference_short: 
     conference: Computer Communications, 2020.
-    pdf: ./_data/adeepneuralnetworkcompressionalgorithmbasedonknowledgetransferforedgedevices.pdf
+    pdf: ./assets/files/adeepneuralnetworkcompressionalgorithmbasedonknowledgetransferforedgedevices.pdf
     code: 
     bibtex: 
     image: ./assets/img/teaser_example_2.png
