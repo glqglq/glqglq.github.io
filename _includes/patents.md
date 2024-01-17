@@ -1,0 +1,22 @@
+![image](https://github.com/glqglq/luqigong.github.io/assets/11147163/0ce54a65-7a6b-4055-95ef-f30768d4b0b7)## Services
+
+(* <h4 style="margin:0 10px 0;">Conference Reviewers</h4> *)
+
+<ul style="margin:0 0 5px;">
+  <li>宫禄齐，徐勇军，李超，一种生成学生网络模型的方法，申请号：202010243249.0，申请日：2020-03-31，授权日：2023-09-08</li>
+  <li>李超，陈启运，刁博宇，宫禄齐，基于可学习重要性评判标准剪枝的图像处理方法及装置，申请号：2023112571991，申请日：2023-09-27，授权日：2023-12-19</li>
+  <li>黄志华，李超，刁博宇，王京，胡泽辰，宫禄齐，郑新千，一种基于目标框的大尺寸图像自适应裁剪方法和装置，申请号：202310311383.3，申请日：2023-03-28，授权日：2023-07-07</li>
+  <li>宫禄齐，李超，刁博宇，一种基于生成对抗神经网络压缩的图像翻译方法，申请号：202311019433.7 ，申请日：2023-11-10</li>
+  <li>戴凌飞，刁博宇，李超，宫禄齐，徐勇军，一种轻量级多任务视频流实时推理方法，申请号：202211348871.3，申请日：2022-10-31</li>
+</ul>
+
+(* 
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+</ul>
+
+
+ *)
