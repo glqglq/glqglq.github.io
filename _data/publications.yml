@@ -1,6 +1,6 @@
 main:
 
-  - title: "A deep neural network compression algorithm based on knowledge transfer for edge devices"
+  - title: "Towards Compressing Efficient Generative Adversarial Networks for Image Translation via Pruning and Distilling"
     authors: <strong>Luqi Gong</strong>, Chao Li*, Hailong Hong, Hui Zhu, Tangwen Qian, Yongjun Xu(*Corresponding authors)
     conference_short: ICANN
     conference: The International Conference on Artificial Neural Networks, 2021.
