@@ -21,5 +21,5 @@ I am a senior engineer at Zhejianglab. Meanwhile, I am currently pursuing a doct
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/patents.md %}
 
-## Research Interests
+## Awards
 - National Scholarship(3/2500), 2015
