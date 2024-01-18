@@ -8,7 +8,7 @@ main:
     code: 
     page: 
     bibtex: ./assets/files/towardscompressingefficientgenerativeadversarialnetworksforimagetranslationviapruninganddistilling.bib
-    notes: Poster
+    notes: Poster Ppaer, CCF C
     image: ./assets/img/towardscompressingefficientgenerativeadversarialnetworksforimagetranslationviapruninganddistilling.png
 
   - title: "Hybrid Parallel Inference for Large Model on Heterogeneous Clusters for High Throughput"
@@ -19,7 +19,7 @@ main:
     code: 
     bibtex: 
     image: ./assets/img/hybridparallelinferenceforlargemodelonheterogeneousclustersforhighthroughput.png
-    notes: Research Paper
+    notes: Research Paper, CCF C
 
   - title: "Sketch-fusion: A gradient compression method with multi-layer fusion for communication-efficient distributed training"
     authors: Lingfei Dai, <strong>Luqi Gong</strong>, Zhulin An, Yongjun Xu, Boyu Diao*(*Corresponding authors)
@@ -29,7 +29,7 @@ main:
     code: 
     bibtex: ./assets/files/sketchfusion.bib
     image: ./assets/img/teaser_example_2.png
-    notes: Accept
+    notes: SCI, IF3.8, JCR Q2, 中科院Q2, CCF B
 
   - title: "A deep neural network compression algorithm based on knowledge transfer for edge devices"
     authors: Yanming Chen, Chao Li*, <strong>Luqi Gong</strong>, Xiang Wen, Yiwen Zhang, Weisong Shi(*Corresponding authors)
@@ -39,7 +39,7 @@ main:
     code: 
     bibtex: ./assets/files/adeepneuralnetworkcompressionalgorithmbasedonknowledgetransferforedgedevices.bib
     image: ./assets/img/adeepneuralnetworkcompressionalgorithmbasedonknowledgetransferforedgedevices.png
-    notes: Accept
+    notes: SCI, IF6.0, JCR Q1, 中科院Q3
     
   - title: "基于模型性能相关性的分级剪枝率剪枝方法"
     authors: 杨康, 郭荣佐*, 李超, 许建荣, 严阳春, <strong>宫禄齐</strong>(*Corresponding authors)
@@ -49,4 +49,4 @@ main:
     code: 
     bibtex: ./assets/files/基于模型性能相关性的分级剪枝率剪枝方法.bib
     image: ./assets/img/基于模型性能相关性的分级剪枝率剪枝方法.png
-    notes: Accept
+    notes: 核心期刊
