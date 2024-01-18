@@ -23,7 +23,7 @@ main:
 
   - title: "Sketch-fusion: A gradient compression method with multi-layer fusion for communication-efficient distributed training"
     authors: Lingfei Dai, <strong>Luqi Gong</strong>, Zhulin An, Yongjun Xu, Boyu Diao*(*Corresponding authors)
-    conference_short: 
+    conference_short: JPDC
     conference: Journal of Parallel and Distributed Computing, 2023.
     pdf: ./assets/files/sketchfusion.pdf
     code: 
