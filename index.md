@@ -16,8 +16,8 @@ I am a senior engineer at Zhejianglab(Hangzhou). Meanwhile, I am currently pursu
 - **[2013~2017]:** B.S. in Network Engineering. Shandong University of Science and Technology(SDUST), Qingdao, China.
 
 ## Research Interests
-
-- **Intelligent Computing Acceleration:** DNN deployment, DNN compression, Inference optimization
+- **DNN deployment**
+- **Intelligent Computing Acceleration:**  DNN compression, Inference optimization
 
 
 {% include_relative _includes/publications.md %}
