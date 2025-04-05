@@ -23,7 +23,7 @@ main:
     image: ./assets/img/towardscompressingefficientgenerativeadversarialnetworksforimagetranslationviapruninganddistilling.png
 
   - title: "Hybrid Parallel Inference for Large Model on Heterogeneous Clusters for High Throughput"
-    authors: Chaonong Xu, Weiming Kong, Min Liu, Mingming Zhang, Chao Li, <strong>Luqi Gong</strong>*(*Corresponding authors)
+    authors: Chaonong Xu, Weiming Kong, Min Liu, Mingming Zhang, Chao Li, <strong>Luqi Gong*</strong>(*Corresponding authors)
     conference_short: ICPADS
     conference: IEEE International Conference on Parallel and Distributed Systems, 2023.
     pdf: 
