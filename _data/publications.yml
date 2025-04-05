@@ -10,17 +10,6 @@ main:
     bibtex: ./assets/files/dpnet.bib
     notes: SCI, IF8.2, CCF C, JCR Q1, 中科院Q1
     image: ./assets/img/dpnet.png
-    
-  - title: "Towards Compressing Efficient Generative Adversarial Networks for Image Translation via Pruning and Distilling"
-    authors: <strong>Luqi Gong</strong>, Chao Li*, Hailong Hong, Hui Zhu, Tangwen Qian, Yongjun Xu(*Corresponding authors)
-    conference_short: ICANN
-    conference: The International Conference on Artificial Neural Networks, 2021.
-    pdf: ./assets/files/towardscompressingefficientgenerativeadversarialnetworksforimagetranslationviapruninganddistilling.pdf
-    code: 
-    page: 
-    bibtex: ./assets/files/towardscompressingefficientgenerativeadversarialnetworksforimagetranslationviapruninganddistilling.bib
-    notes: Conference Poster Ppaer, CCF C
-    image: ./assets/img/towardscompressingefficientgenerativeadversarialnetworksforimagetranslationviapruninganddistilling.png
 
   - title: "Hybrid Parallel Inference for Large Model on Heterogeneous Clusters for High Throughput"
     authors: Chaonong Xu, Weiming Kong, Min Liu, Mingming Zhang, Chao Li, <strong>Luqi Gong*</strong>(*Corresponding authors)
@@ -41,7 +30,28 @@ main:
     bibtex: ./assets/files/sketchfusion.bib
     image: ./assets/img/teaser_example_2.png
     notes: SCI, IF3.8, JCR Q2, 中科院Q2, CCF B
+    
+  - title: "Towards Compressing Efficient Generative Adversarial Networks for Image Translation via Pruning and Distilling"
+    authors: <strong>Luqi Gong</strong>, Chao Li*, Hailong Hong, Hui Zhu, Tangwen Qian, Yongjun Xu(*Corresponding authors)
+    conference_short: ICANN
+    conference: The International Conference on Artificial Neural Networks, 2021.
+    pdf: ./assets/files/towardscompressingefficientgenerativeadversarialnetworksforimagetranslationviapruninganddistilling.pdf
+    code: 
+    page: 
+    bibtex: ./assets/files/towardscompressingefficientgenerativeadversarialnetworksforimagetranslationviapruninganddistilling.bib
+    notes: Conference Poster Ppaer, CCF C
+    image: ./assets/img/towardscompressingefficientgenerativeadversarialnetworksforimagetranslationviapruninganddistilling.png
 
+  - title: "基于模型性能相关性的分级剪枝率剪枝方法"
+    authors: 杨康, et al.(6/6)
+    conference_short: 
+    conference: 计算机工程与设计, 2021.
+    pdf: ./assets/files/基于模型性能相关性的分级剪枝率剪枝方法.pdf
+    code: 
+    bibtex: ./assets/files/基于模型性能相关性的分级剪枝率剪枝方法.bib
+    image: ./assets/img/基于模型性能相关性的分级剪枝率剪枝方法.png
+    notes: 核心期刊
+    
   - title: "A deep neural network compression algorithm based on knowledge transfer for edge devices"
     authors: Yanming Chen, Chao Li*, <strong>Luqi Gong</strong>, Xiang Wen, Yiwen Zhang, Weisong Shi(*Corresponding authors)
     conference_short: 
@@ -51,13 +61,3 @@ main:
     bibtex: ./assets/files/adeepneuralnetworkcompressionalgorithmbasedonknowledgetransferforedgedevices.bib
     image: ./assets/img/adeepneuralnetworkcompressionalgorithmbasedonknowledgetransferforedgedevices.png
     notes: SCI, IF6.0, JCR Q1, 中科院Q3
-    
-  - title: "基于模型性能相关性的分级剪枝率剪枝方法"
-    authors: 6/6
-    conference_short: 
-    conference: 计算机工程与设计, 2021.
-    pdf: ./assets/files/基于模型性能相关性的分级剪枝率剪枝方法.pdf
-    code: 
-    bibtex: ./assets/files/基于模型性能相关性的分级剪枝率剪枝方法.bib
-    image: ./assets/img/基于模型性能相关性的分级剪枝率剪枝方法.png
-    notes: 核心期刊
