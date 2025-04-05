@@ -1,5 +1,16 @@
 main:
 
+  - title: "DPNet: Dynamic Pooling Network for Accurate and Efficient Size-Aware Tiny Object Detection"
+    authors: <strong>Luqi Gong</strong>, Haotian Chen, Yikun Chen, Tianliang Yao, Chao Li*, Shuai Zhao*, Guangjie Han , Fellow,IEEE(*Corresponding authors)
+    conference_short: IOTJ
+    conference: IEEE Internet of Things Journal, 2025.
+    pdf: ./assets/files/dpnet.pdf
+    code: 
+    page: 
+    bibtex: ./assets/files/dpnet.bib
+    notes: Research Paper, CCF C, JCR Q1, 中科院Q1
+    image: ./assets/img/dpnet.png
+    
   - title: "Towards Compressing Efficient Generative Adversarial Networks for Image Translation via Pruning and Distilling"
     authors: <strong>Luqi Gong</strong>, Chao Li*, Hailong Hong, Hui Zhu, Tangwen Qian, Yongjun Xu(*Corresponding authors)
     conference_short: ICANN
