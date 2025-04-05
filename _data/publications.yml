@@ -8,7 +8,7 @@ main:
     code: 
     page: 
     bibtex: ./assets/files/dpnet.bib
-    notes: SCI, IF8, CCF C, JCR Q1, 中科院Q1
+    notes: SCI, IF8.2, CCF C, JCR Q1, 中科院Q1
     image: ./assets/img/dpnet.png
     
   - title: "Towards Compressing Efficient Generative Adversarial Networks for Image Translation via Pruning and Distilling"
