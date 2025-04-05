@@ -8,7 +8,7 @@ main:
     code: 
     page: 
     bibtex: ./assets/files/dpnet.bib
-    notes: Research Paper, CCF C, JCR Q1, 中科院Q1
+    notes: SCI, IF8, CCF C, JCR Q1, 中科院Q1
     image: ./assets/img/dpnet.png
     
   - title: "Towards Compressing Efficient Generative Adversarial Networks for Image Translation via Pruning and Distilling"
@@ -19,7 +19,7 @@ main:
     code: 
     page: 
     bibtex: ./assets/files/towardscompressingefficientgenerativeadversarialnetworksforimagetranslationviapruninganddistilling.bib
-    notes: Poster Ppaer, CCF C
+    notes: Conference Poster Ppaer, CCF C
     image: ./assets/img/towardscompressingefficientgenerativeadversarialnetworksforimagetranslationviapruninganddistilling.png
 
   - title: "Hybrid Parallel Inference for Large Model on Heterogeneous Clusters for High Throughput"
@@ -30,7 +30,7 @@ main:
     code: 
     bibtex: 
     image: ./assets/img/hybridparallelinferenceforlargemodelonheterogeneousclustersforhighthroughput.png
-    notes: Research Paper, CCF C
+    notes: Conference Research Paper, CCF C
 
   - title: "Sketch-fusion: A gradient compression method with multi-layer fusion for communication-efficient distributed training"
     authors: Lingfei Dai, <strong>Luqi Gong</strong>, Zhulin An, Yongjun Xu, Boyu Diao*(*Corresponding authors)
