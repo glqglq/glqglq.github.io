@@ -53,7 +53,7 @@ main:
     notes: SCI, IF6.0, JCR Q1, 中科院Q3
     
   - title: "基于模型性能相关性的分级剪枝率剪枝方法"
-    authors: 杨康, 郭荣佐*, 李超, 许建荣, 严阳春, <strong>宫禄齐</strong>(*Corresponding authors)
+    authors: 6/6
     conference_short: 
     conference: 计算机工程与设计, 2021.
     pdf: ./assets/files/基于模型性能相关性的分级剪枝率剪枝方法.pdf
