@@ -3,7 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-I am a senior engineer at Zhejianglab. Meanwhile, I am currently pursuing a doctoral degree at Beijing University of Posts and Telecommunications. My research interests include Satellite Computing, AI System and Intelligent Computing Acceleration(DNN compression, Inference optimization et al.).
+I am a senior engineer at Zhejianglab. Meanwhile, I am currently pursuing a doctoral degree at Beijing University of Posts and Telecommunications. 
+
+My research interests include Satellite Computing, AI System and Intelligent Computing Acceleration(DNN compression, Inference optimization et al.).
 
 ## Work experience
 - **July, 2023 - now**, Zhejianglab, Senior Engineer
