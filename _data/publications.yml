@@ -11,6 +11,17 @@ main:
     notes: SCI, IF8.2, JCR Q1, 中科院Q1, CCF C
     image: ./assets/img/dpnet.png
 
+  - title: "基于遥感图像的YOLOv3模型算法优化"
+    authors: 刘德建, et al.(<strong>3/3</strong>)
+    conference_short: 
+    conference: 计算机应用与软件, 2025.
+    pdf: ./assets/files/基于遥感图像的YOLOv3模型算法优化.pdf
+    code: 
+    page: 
+    bibtex: ./assets/files/基于遥感图像的YOLOv3模型算法优化.bib
+    notes: 核心期刊
+    image: ./assets/img/基于遥感图像的YOLOv3模型算法优化.png
+
   - title: "Sketch-fusion: A gradient compression method with multi-layer fusion for communication-efficient distributed training"
     authors: Lingfei Dai, <strong>Luqi Gong</strong>, Zhulin An, Yongjun Xu, Boyu Diao*(*Corresponding authors)
     conference_short: JPDC
